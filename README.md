@@ -1,3 +1,4 @@
+
 # Angular5-Hero-Demo-Translate in Angular5 and Ngx-translate/core9
 
 #### This project is an example of the "hero" of the official website and is translated with ngx-translate with Angular5.
@@ -20,10 +21,9 @@ Angular5-Hero-Demo-Translate provides the following features:
 Note that this seed project requires node >=v6.9.0 and npm >=3.
 
 ##### In order to start the project use:
-    git clone XXX
-    cd xx
+    git clone https://github.com/menglu628/Angular5-ngx-translate-Hero-demo.git
+    cd Angular5-ngx-translate-Hero-demo
     npm install
 
 ##### After edit your code, you will have to compile your code to see the change like this:
     npm run server
-
