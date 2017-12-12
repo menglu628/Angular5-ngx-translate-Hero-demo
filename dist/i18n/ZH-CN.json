@@ -1,0 +1,11 @@
+{
+  "HERO": {
+    "TOUR_OF_HEROES": "英雄之旅",
+    "DASHBOARD": "仪表盘",
+    "HEROES": "英雄",
+    "TOP_HEROES": "最佳英雄",
+    "MY_HEROES": "我的英雄",
+    "VIEW_DETAILS": "查看详情",
+    "HERO_DETAIL": "我的英雄是：{0}"
+  }
+}

@@ -1,0 +1,7 @@
+<a (click)="toogleLang()">{{curLangText}}</a>
+<h1>{{title}}</h1>
+<nav>
+    <a routerLink="/dashboard" routerLinkActive="active">{{"HERO.DASHBOARD" | translate}}</a>
+    <a routerLink="/heroes" routerLinkActive="active">{{"HERO.HEROES" | translate}}</a>
+</nav>
+<router-outlet></router-outlet>

@@ -1,0 +1,12 @@
+{
+  "HERO": {
+    "TOUR_OF_HEROES": "Tour of Heroes",
+    "DASHBOARD": "Dashboard",
+    "HEROES": "Heroes",
+    "TOP_HEROES": "Top Heroes",
+    "MY_HEROES": "My Heroes",
+    "VIEW_DETAILS": "View Details",
+    "HERO_DETAIL": "{0} is my hero",
+    "BACK": "Back"
+  }
+}
